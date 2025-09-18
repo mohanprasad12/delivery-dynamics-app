@@ -57,7 +57,7 @@ export default function Sidebar() {
           {/* Logo */}
           <div className="flex h-16 items-center px-6 border-b border-sidebar-border">
             <h2 className="text-xl font-semibold text-sidebar-foreground">
-              EduTrack Pro
+              LEAD SAMS
             </h2>
           </div>
 
